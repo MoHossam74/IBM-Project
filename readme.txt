@@ -53,7 +53,9 @@ The dashboard helps HR and management to:
 ---
 
 ## 📷 Sample Dashboard
-*(Add a screenshot of your Power BI dashboard here)*  
+![Dashboard Screenshot](https://github.com/MoHossam74/IBM-Project/blob/main/Screenshot%202025-09-04%20215001.png?raw=true)
+![Dashboard Screenshot](https://github.com/MoHossam74/IBM-Project/blob/main/Screenshot%202025-09-10%20181402.png?raw=true)
+
 
 ---
 
@@ -76,3 +78,4 @@ The dashboard helps HR and management to:
 **Mohammed Enany**  
 📧 [Your Email]  
 🔗 [LinkedIn Profile]  
+
