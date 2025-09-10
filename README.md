@@ -59,7 +59,8 @@ The dashboard helps HR and management to:
 
 Here’s a preview of the Power BI dashboard:  
 
-![Dashboard Screenshot](./Screenshot%202025-08-26%20201641.png)
+![Dashboard Screenshot](https://github.com/MoHossam74/IBM-Project/blob/main/Screenshot%202025-09-04%20215001.png?raw=true)
+![Dashboard Screenshot](https://github.com/MoHossam74/IBM-Project/blob/main/Screenshot%202025-09-10%20181402.png?raw=true)
 
 ---
 
